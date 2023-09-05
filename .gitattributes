@@ -1,0 +1,2 @@
+libtorch.xcframework/ios-arm64/libfattorch.a filter=lfs diff=lfs merge=lfs -text
+libtorch.xcframework/ios-arm64-simulator/libfattorch.a filter=lfs diff=lfs merge=lfs -text
